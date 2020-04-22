@@ -2,7 +2,7 @@
 Virtual Labs IIT Kharagpur for Mechanical Engineering Labs
 ## Empty template of Virtual labs IIT Khargpur webpage.
 
-## Read the instructions in [Readme.pdf](https://github.com/vlabsiitkgp/vlabiitkgptmpt/blob/master/Readme.pdf) document to use Atom to upload to GitHub.
+## Read the instructions in [Readme.pdf](https://github.com/vlabsiitkgp/vlabiitkgpME/blob/master/Readme.pdf) document to use Atom to upload to GitHub.
 
 #### Last updated on
 ####  20-04-2020,
